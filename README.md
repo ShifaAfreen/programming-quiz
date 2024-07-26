@@ -1,8 +1,21 @@
-# React + Vite
+# React Programming Quiz App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This React-based application provides interactive programming quizzes to help users test and improve their coding knowledge. 
 
-Currently, two official plugins are available:
+## Features
+* Multiple-choice questions with explanations
+* Score tracking and performance analysis
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live demo
+check out the live demo of app here: https://shifaafreen-progrmming-quiz.netlify.app/
+
+
+## Technologies
+* React
+* JavaScript
+* CSS
+
+## Contributing
+Feel free to contribute to the project by submitting pull requests. 
+
